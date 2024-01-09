@@ -1,0 +1,16 @@
+This repository contains a Python script that implements a K-Nearest Neighbors (KNN) classifier for fraud detection using a dataset from the financial domain. 
+The goal is to identify fraudulent transactions based on various features.
+
+Introduction:
+Fraud detection is a crucial task in the financial sector to identify and prevent fraudulent activities. 
+This script leverages the K-Nearest Neighbors algorithm to classify transactions as either fraudulent or non-fraudulent based on their features.
+
+Dataset:
+The dataset used in this script is download from Kaggle.(link for dataset: https://www.kaggle.com/datasets/charlesbeauchamp/ps-20174392719-1491204439457-logcsv)
+Download the dataset and replace the path with the actual path on your device.
+
+Visualization:
+The script generates a pie chart visualizing the distribution of fraud and non-fraud instances in the dataset.
+
+Note:
+Can change the number of clusters as per user choice by changing the value of k(line 40)
